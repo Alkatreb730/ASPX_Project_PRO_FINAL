@@ -1,0 +1,21 @@
+{
+  "projectName": "Ali Smart Global Markets – ASPX",
+  "shortCode": "ASPX",
+  "theme": "dark",
+  "defaultTimezone": "Asia/Beirut",
+  "updateIntervalSeconds": 60,
+  "dataProviders": {
+    "market": "Finnhub",
+    "crypto": "CoinGecko",
+    "economic": "TradingEconomics",
+    "news": "NewsAPI"
+  },
+  "features": [
+    "RealTimePrices",
+    "BuySellSignals60s",
+    "InstantForecast1min",
+    "VoiceAssistant",
+    "Calculators",
+    "CrossAssetConverters"
+  ]
+}
